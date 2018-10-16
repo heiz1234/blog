@@ -20,12 +20,11 @@ layout: main
         <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
       </header>
       {{content | markdownify}}
-        <div class="page-tag">
+	  <div class="page-tag">
           {% for tag in page.tags %}
-            <a href="/tags#{{tag}}" class="tag">{{ tag }}</a>
+            <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">&#35; {{ tag }}</a>
           {% endfor %}
         </div>
-      </div>
       {% include disqus.html %}
     </div> <!-- End Wrap Content -->
   </div> <!-- End Page Content -->
