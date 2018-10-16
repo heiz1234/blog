@@ -3,7 +3,7 @@ layout: post
 title: 我的第一篇博客
 date: 2018-10-16 18:00
 description: 我的第一篇博客 # Add post description (optional)
-img: i-rest.jpg # Add image post (optional)
+img:  # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [生活]
 ---
