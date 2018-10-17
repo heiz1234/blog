@@ -1,7 +1,7 @@
 ---
 layout: post
 title: maven核心pom.xml详解
-date: 2018-10-16 18:00
+date: 2018-10-17 18:00
 description: maven核心pom.xml详解 # Add post description (optional)
 img: 2018-10-17/maven.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
