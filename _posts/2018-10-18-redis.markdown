@@ -3,9 +3,9 @@ layout: post
 title: 基于redis的分布式锁
 date: 2018-10-18 19:30
 description: 基于redis的分布式锁 # Add post description (optional)
-img: 2018-10-16/redis.jpg # Add image post (optional)
+img: 2018-10-18/redis.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [maven]
+tags: [redis]
 ---
 
 
@@ -581,8 +581,11 @@ public void testLockCase5() {
 测试结果
 
 ![pic3]({{site.baseurl}}/assets/img/2018-10-18/pic3.gif)
+
 或许到这里基于单机Redis环境的分布式就介绍完了。但是使用java的同学有没有发现一个锁的重要特性
+
 ![pic4]({{site.baseurl}}/assets/img/2018-10-18/pic4.png)
+
 那就是锁的重入，那么分布式锁的重入该如何实现呢？这里就留一个坑了
 
 # 4 集群Redis的分布式锁
