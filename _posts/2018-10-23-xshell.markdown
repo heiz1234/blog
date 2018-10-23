@@ -13,7 +13,7 @@ tags: [护眼]
 # xshell护眼配色
 
 ## Solarized Dark暗色版
-```property
+```
 [Solarized Dark]
 text=839496
 cyan(bold)=93a1a1
@@ -42,7 +42,7 @@ count=1
 ![pic1]({{site.baseurl}}/assets/img/2018-10-23/Solarized_Dark.png)
 
 ## SolarizedDarkModify亮色版
-```property
+```
 [SolarizedDarkModify]
 text=839496
 cyan(bold)=00ffff
@@ -71,10 +71,15 @@ count=1
 
 ## 配置方式
  第一步：选择xshell工具栏中"配色方案"->"浏览"
+ 
  ![pic2]({{site.baseurl}}/assets/img/2018-10-23/step1.png)
+ 
  第二步：选择"导入"
+ 
  ![pic2]({{site.baseurl}}/assets/img/2018-10-23/step2.png) 
+ 
  第三步：选择xcs文件(将上面的配置代码保存在xcs文件中)
+ 
  ![pic2]({{site.baseurl}}/assets/img/2018-10-23/step3.png)
 
 
