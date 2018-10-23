@@ -11,9 +11,9 @@ tags: [护眼]
 
 平时在部署应用或者查看应用日志时，都习惯使用xshell，常规的黑白配色长时间实在是太伤眼睛。推荐以下几款配色方案。
 # xshell护眼配色
----
+
 ## Solarized Dark暗色版
-```
+```property
 [Solarized Dark]
 text=839496
 cyan(bold)=93a1a1
@@ -39,10 +39,10 @@ name0=Solarized Dark
 count=1
 ```
 
-![pic1]({{site.baseurl}}/assets/img/2018-10-23/pic1.jpg)
+![pic1]({{site.baseurl}}/assets/img/2018-10-23/Solarized_Dark.png)
 
-```
 ## SolarizedDarkModify亮色版
+```property
 [SolarizedDarkModify]
 text=839496
 cyan(bold)=00ffff
@@ -67,7 +67,7 @@ black(bold)=808080
 name0=SolarizedDarkModify
 count=1
 ```
-![pic2]({{site.baseurl}}/assets/img/2018-10-23/pic1.jpg)
+![pic2]({{site.baseurl}}/assets/img/2018-10-23/SolarizedDarkModify.png)
 
 ## 配置方式
  第一步：选择xshell工具栏中"配色方案"->"浏览"
@@ -77,13 +77,12 @@ count=1
  第三步：选择xcs文件(将上面的配置代码保存在xcs文件中)
  ![pic2]({{site.baseurl}}/assets/img/2018-10-23/step3.png)
 
----
 
 # 其他护眼方案
 最近使用的一款“护眼宝”软件，可防蓝光，护眼，夜间助眠，疲劳用眼提醒等多种功能，推荐使用。
 ![pic2]({{site.baseurl}}/assets/img/2018-10-23/hyb.png)
 
-官网下载地址：http://huyanapp.com/portal.php
+官网下载地址：[http://huyanapp.com/portal.php](http://huyanapp.com/portal.php) 
 
 
  
