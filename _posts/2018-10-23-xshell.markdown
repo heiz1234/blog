@@ -1,0 +1,89 @@
+---
+layout: post
+title: xshell护眼配色方案
+date: 2018-10-23 20:33
+description: xshell护眼配色方案 # Add post description (optional)
+img: 2018-10-23/huyan.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [护眼]
+---
+
+
+平时在部署应用或者查看应用日志时，都习惯使用xshell，常规的黑白配色长时间实在是太伤眼睛。推荐以下几款配色方案。
+# xshell护眼配色
+---
+## Solarized Dark暗色版
+```
+[Solarized Dark]
+text=839496
+cyan(bold)=93a1a1
+text(bold)=408080
+magenta=dd3682
+green=859900
+green(bold)=586e75
+background=042028
+cyan=2aa198
+red(bold)=cb4b16
+yellow=b58900
+magenta(bold)=6c71c4
+yellow(bold)=657b83
+red=808000
+white=eee8d5
+blue(bold)=8080ff
+white(bold)=fdf6e3
+black=002b36
+blue=268bd2
+black(bold)=073642
+[Names]
+name0=Solarized Dark
+count=1
+```
+
+![pic1]({{site.baseurl}}/assets/img/2018-10-23/pic1.jpg)
+
+```
+## SolarizedDarkModify亮色版
+[SolarizedDarkModify]
+text=839496
+cyan(bold)=00ffff
+text(bold)=e9e9e9
+magenta=c000c0
+green=80ff00
+green(bold)=3c5a38
+background=042028
+cyan=00c0c0
+red(bold)=ff0000
+yellow=c0c000
+magenta(bold)=ff00ff
+yellow(bold)=ffff00
+red=ff4500
+white=c0c0c0
+blue(bold)=1e90ff
+white(bold)=fdf6e3
+black=000000
+blue=00bfff
+black(bold)=808080
+[Names]
+name0=SolarizedDarkModify
+count=1
+```
+![pic2]({{site.baseurl}}/assets/img/2018-10-23/pic1.jpg)
+
+## 配置方式
+ 第一步：选择xshell工具栏中"配色方案"->"浏览"
+ ![pic2]({{site.baseurl}}/assets/img/2018-10-23/step1.png)
+ 第二步：选择"导入"
+ ![pic2]({{site.baseurl}}/assets/img/2018-10-23/step2.png) 
+ 第三步：选择xcs文件(将上面的配置代码保存在xcs文件中)
+ ![pic2]({{site.baseurl}}/assets/img/2018-10-23/step3.png)
+
+---
+
+# 其他护眼方案
+最近使用的一款“护眼宝”软件，可防蓝光，护眼，夜间助眠，疲劳用眼提醒等多种功能，推荐使用。
+![pic2]({{site.baseurl}}/assets/img/2018-10-23/hyb.png)
+
+官网下载地址：http://huyanapp.com/portal.php
+
+
+ 
